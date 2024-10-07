@@ -1,3 +1,4 @@
 # Online-Payment-Fraud-detection
 
-![Fraud Detection Notebook Screenshot](./Online-Payment-Fraud-detection/Online-payment-fraud-detection-main/online-payment-fraud-detection.ipynb)
+[View the Jupyter Notebook](./Online-Payment-Fraud-detection/Online-payment-fraud-detection-main/online-payment-fraud-detection.ipynb)
+
